@@ -33,7 +33,7 @@ donation_form:
   amount: 100 # this field is required
   # fields bellow can be ommited to stop the form from using them
   # you can simply delete them, but it would be best to simply comment it out so you can bring it back if you wish.
-  amounts: "[25, 50, 100, 500,1000]" # must be in JSON format
+  amounts: "[25, 50, 75, 100, 500, 1000]" # must be in JSON format
   anonymity: false
   comment: false
   custom: '["amount", "designation"]' # must be in JSON format
