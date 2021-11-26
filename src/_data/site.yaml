@@ -1,35 +1,26 @@
 # TIP: Variables from this file can be accessed from template files with: {{ site.variable }}. For example: {{ site.title }} or {{ site.description }}
 # You'll want to modify most of this file with your own branding and links.
 
-title: "JAM Stack e-commerce template" # Appears after the title Page eg. Title - Web Starter
-subtitle: "Making fundraising easy!"
+title: "GNSI Fund for Education Grants" # Appears after the title Page eg. Title - Web Starter
+subtitle: "Every penny raised (up to $5000) will be doubled! "
 description: "An e-commerce website built with 11ty.js, TailwindCSS and Foxy.io" # Used in the meta tags, for search engines and social sharing
-url: "https://foxy.io/" # Set this to the domain you'll publish this site to
-author: "Foxy.io" # This is used for the copyright notice in the footer
+url: "https://gnsidonate.org" # Set this to the domain you'll publish this site to
+author: "GNSI" # This is used for the copyright notice in the footer
 meta_data:
-  twitter: "@foxycart" # Used in the meta tags
+  twitter: "@GNSIorg" # Used in the meta tags
   default_social_image: "/static/logo.png"
 
 # Careful! Use quotes around your links.
 # You can add additional nav items, and the urls can be external links.
 navigation:
-  - name: Welcome
-    url: "#welcome"
-    description: Return to the top
-  - name: About
-    url: "#about"
-    description: Learn about what we're doing
-  - name: Donate!
-    url: "#donate"
-    description: Help support us
-  - name: Needed items
-    url: "#items"
-    description: Help with a specific item
+  - name: Return to GNSI
+    url: "https://gnsi.org/"
+    description: GNSI Main Website
 
 # The following are the headings for the navigation
 texts:
-  highlights_title: "Here are some of our highlights"
-  highlights_text: "Click the links below to load the videos while you browse."
+  highlights_title: "Let’s make Britt squeal (with delight of course) and donate generously below:"
+  highlights_text: ""
   about_title: "About Us" # This the heading for the 2nd section, if desired.
   donate_title: "Donate"
   needed_items_title: "Needed Items" # This is the heading for the products / donation items.
