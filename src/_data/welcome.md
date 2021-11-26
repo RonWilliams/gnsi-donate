@@ -1,3 +1,5 @@
+### GNSI Launches Matching Donations Campaign for Education Accessibility Grants!
+
 We were able to fund 23 small grants in the past two years through donations from two anonymous donors. Now we’d like to find a way to continue the granting program into the future by developing a sustainable grant funding base.
 
 
