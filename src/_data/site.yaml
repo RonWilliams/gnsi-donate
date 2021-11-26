@@ -37,10 +37,10 @@ donation_form:
   anonymity: false
   comment: false
   custom: '["amount", "designation"]' # must be in JSON format
-  designation: '["Area of Greatest Need"]' # must be in JSON format. Sets the default designation value.
-  designations: '["Area of Greatest Need", "Medical Aid", "Economic Relief"]' # Sets the degination options.
-  frequencies: '["0d", "1m", "2m", "3m"]' # must be in JSON format. Sets the frequencies options.
-  frequency: "1m" # set the default frequency option
+  designation: '["GNSI Education Grants Fund"]' # must be in JSON format. Sets the default designation value.
+  # designations: '["Area of Greatest Need", "Medical Aid", "Economic Relief"]' # Sets the degination options.
+  # frequencies: '["0d", "1m", "2m", "3m"]' # must be in JSON format. Sets the frequencies options.
+  # frequency: "1m" # set the default frequency option
   # use 1d for 1 per day (daily contributions)
   # use 1w for 1 per week (weekly contributions)
   # use 1m for 1 per month (monthly contributions)
