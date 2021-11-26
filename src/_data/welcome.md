@@ -1,5 +1,4 @@
-Here you can add text for your welcome section. This is the first text that a visitor will see, so you probably want to make this friendly and personable, or describe the purpose of this site.
+We were able to fund 23 small grants in the past two years through donations from two anonymous donors. Now we’d like to find a way to continue the granting program into the future by developing a sustainable grant funding base.
 
-You can use any any [Markdown formatting](https://guides.github.com/features/mastering-markdown/) you'd like, or embed HTML. It's up to you :)
 
-Immediately below are links to YouTube videos. If you only have 1 video, the following section will hide. If you have multiple, clicking on the links will change the videos to the left (or on top, if you're on mobile).
+We are delighted to announce that Britt Griswold, long-time GNSI member and Distinguished Service Award recipient for his sustained dedication to our organization, has stepped forward to match any donations you make to the Guild now through December 31, 2021!! Your donations will go into a dedicated granting fund that will help members and non-members attend our Education events. Remember that as a 501(c)(3) organization, your donations to this fund are tax deductible in the USA.
