@@ -48,19 +48,16 @@ donation_form:
 
 # Careful! Use quotes around your links.
 social_networks:
-  blog:
-    url: "https://www.foxy.io/blog/"
-    icon: "fas fa-blog-square"
   email:
-    url: "mailto:hello@example.com"
+    url: "https://www.gnsi.org/contact"
     icon: "fas fa-envelope-square"
     protocol: "mailto"
   facebook:
-    url: "https://www.facebook.com/foxycart"
+    url: "https://www.facebook.com/gnsiart/"
     icon: "fab fa-facebook-square"
   twitter:
-    url: "https://twitter.com/foxycart"
+    url: "https://twitter.com/GNSIorg"
     icon: "fab fa-twitter-square"
   youtube:
-    url: "https://www.youtube.com/foxycart"
+    url: "https://www.youtube.com/channel/UC9h8X3orGuMHG4uhOQFpEfw"
     icon: "fab fa-youtube"
