@@ -8,7 +8,7 @@ url: "https://gnsidonate.org" # Set this to the domain you'll publish this site 
 author: "GNSI" # This is used for the copyright notice in the footer
 meta_data:
   twitter: "@GNSIorg" # Used in the meta tags
-  default_social_image: "/static/logo.png"
+  default_social_image: "/static/logo.jpeg"
 
 # Careful! Use quotes around your links.
 # You can add additional nav items, and the urls can be external links.
