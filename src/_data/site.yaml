@@ -23,7 +23,7 @@ texts:
   highlights_text: ""
   about_title: "About Us" # This the heading for the 2nd section, if desired.
   donate_title: "Donate"
-  needed_items_title: "Needed Items" # This is the heading for the products / donation items.
+  # needed_items_title: "Needed Items" # This is the heading for the products / donation items.
 
 currency_symbol: $
 currency: usd
